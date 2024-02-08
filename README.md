@@ -7,7 +7,7 @@ Bu basit Python programı, kullanıcı ile bilgisayar arasında taş kağıt mak
 1. Python'u bilgisayarınıza kurun. Kurulum için [Python'un resmi web sitesini](https://www.python.org/) ziyaret edebilirsiniz.
 2. Kodu kendi bilgisayarınıza kopyalayın veya projeyi GitHub'dan indirin.
 3. Komut istemcisini veya terminali açın ve projenin bulunduğu dizine gidin.
-4. `python ta_kagit_makas.py` komutunu girerek programı çalıştırın.
+4. `python taskagitmakas.py` komutunu girerek programı çalıştırın.
 5. Kullanıcıdan istenen adımları takip ederek oyunu oynayın.
 
 ## Oyun Kuralları
